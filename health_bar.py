@@ -54,3 +54,5 @@ class Healthbar:
             f'{self.colors['default'] if self.is_colored else ''}'
             f'{self.barrier}'
         )
+
+# TODO rewatch code
